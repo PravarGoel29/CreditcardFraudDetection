@@ -9,5 +9,6 @@ We use logistic regression to develop a binary classification model to predict w
 
 #Model Evaluation
 We evaluate the performance of our model using various metrics such as accuracy, precision, recall, and F1-score. Additionally, we plot a confusion matrix to visualize the performance of the model.
+
 #Conclusion
 Our model achieves an accuracy of 0.977 and a false positive rate of 0.03, indicating that it is highly accurate in detecting credit card fraud. However, the accuracy and false positive rate may vary depending on the specific dataset and machine learning algorithm used. Overall, this project demonstrates the effectiveness of machine learning in detecting credit card fraud and provides a starting point for further development and optimization of fraud detection models.
